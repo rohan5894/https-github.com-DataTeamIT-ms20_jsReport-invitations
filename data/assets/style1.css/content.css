@@ -1,0 +1,74 @@
+body{margin:0;padding:0;}
+p {margin: 0 0 10px;}
+.container {margin:0 auto;width:1140px;padding-left:15px;padding-right:15px;overflow: hidden;}
+.clear {overflow:hidden;}
+.pull-left {float:left;}
+.pull-right {float:right;}
+.text-center {text-align:center;}
+.text-left {text-align:left;}
+.text-right {text-align:right;}
+h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat', sans-serif;}
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12{float:left}
+.col-12{width:100%}
+.col-11{width:91.66666667%}
+.col-10{width:83.33333333%}
+.col-9{width:75%}
+.col-8{width:66.66666667%}
+.col-7{width:58.33333333%}
+.col-6{width:50%}
+.col-5{width:41.66666667%}
+.col-4{width:33.33333333%}
+.col-3{width:25%}
+.col-2{width:16.66666667%}
+.col-1{width:8.33333333%}
+
+.pr-15 {padding-right: 15px;}
+.pl-15 {padding-left: 15px;}
+
+section {margin: 20px 0;overflow:hidden;}
+.section-title {font-size:24px;line-height:normal;margin:20px 0;}
+
+#main p {font-family:Arial, sans-serif; color:#6D6E71;margin:0 0 20px;font-size:18px;line-height:24px;}
+
+header {padding-top: 40px;margin: 0 0 10px;}
+#top-head {margin: 0 0 10px;}
+#top-head h1 {font-size: 48px;line-height:48px;font-weight: 700;margin: 5px 0;}
+
+#masthead{font-family: 'Titillium Web', sans-serif;color:#939598;font-size: 20px;min-height: 80px;}
+#masthead label {font-weight:700;}
+#masthead span {font-weight:600;}
+
+.info-wrapper {border-bottom: 1px solid #000;border-top: 2px solid #ccc;padding: 30px 0;}
+.info-wrapper h2 {font-size:20px;margin:0 0 5px;}
+.info-wrapper p {font-family: 'Titillium Web', sans-serif !important;font-size:18px;margin:0 0 10px !important;}
+.info-wrapper span {font-family: 'Montserrat', sans-serif;}
+.info-wrapper .designation {}
+
+.closing-wrapper {margin: 50px 0 30px;}
+.closing-wrapper h4 {margin: 10px 0 0;}
+.img-wrapper {background-color:#F1F2F2;text-align:center;padding:100px 0;}
+
+table {margin-bottom:20px;}
+.table {font-family: montserrat;font-size: 16px;}
+.table td {padding: 8px;}
+.td-bg {background-color:#ccc;display:block;padding: 8px;}
+
+.table-product-details {border: 1px solid #eee;font-size: 14px;}
+.table-product-details td {border: 1px solid #eee;padding:2px 5px;}
+.table-product-details td.td-highlight {border: 1px solid #333;}
+
+footer {font-family: 'Titillium Web', sans-serif;padding:50px 0 20px;}
+
+
+@media only screen and (max-width: 1169px) {
+	.container {width:992px;}
+}
+@media only screen and (max-width: 991px) {
+	.container {width:768px;}
+}
+@media only screen and (max-width: 767px) {
+	.container {width:auto;}
+}
+
+
+

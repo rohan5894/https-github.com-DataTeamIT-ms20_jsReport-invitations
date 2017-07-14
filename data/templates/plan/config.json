@@ -1,0 +1,15 @@
+{
+    "shortid": "Sk1vLT4Sb",
+    "recipe": "phantom-pdf",
+    "engine": "handlebars",
+    "modificationDate": {
+        "$$date": 1500037852056
+    },
+    "_id": "RjUGAbkfQhVU1gB5",
+    "data": null,
+    "scripts": [
+        {
+            "shortid": "H1MErM8H-"
+        }
+    ]
+}

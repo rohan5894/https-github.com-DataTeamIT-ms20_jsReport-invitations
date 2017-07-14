@@ -1,0 +1,43 @@
+{
+    "comapnydetails":
+ [
+    {
+       "Company": "qwerty11",
+        "contact": "qwerty12",
+        "country":"qwerty13",
+        "number":"qwerty14",
+        "email":"qwerty15"
+        
+    },
+    {
+         "Company": "qwerty21",
+        "contact": "qwerty22",
+        "country":"qwerty23",
+        "number":"qwerty24",
+        "email":"qwerty25"
+        
+    },
+    {
+         "Company": "qwerty31",
+        "contact": "qwerty32",
+        "country":"qwerty33",
+        "number":"qwerty34",
+        "email":"qwerty35"
+        },
+    { "Company": "qwerty41",
+        "contact": "qwerty42",
+        "country":"qwerty43",
+        "number":"qwerty44",
+        "email":"qwerty45"
+        
+    },
+    {
+        "Company": "qwerty51",
+        "contact": "qwerty52",
+        "country":"qwerty53",
+        "number":"qwerty54",
+        "email":"qwerty55"
+        
+    }
+ ]
+}
